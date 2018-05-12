@@ -1,0 +1,28 @@
+_repo: Morality-as-a-ReligionAn-exposition-of-some-first-principles_22177
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sullivan, W. R. Washington (William Robert Washington)
+    gutenberg_agent_id: '25161'
+    url: http://www.gutenberg.org/2009/agents/25161
+description: ''
+gutenberg_issued: '2007-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+- !lcsh 'Religion and ethics'
+title: 'Morality as a Religion
+
+  An exposition of some first principles'
+url: http://www.gutenberg.org/ebooks/22177
